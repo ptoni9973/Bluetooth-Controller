@@ -1,3 +1,5 @@
+//This file contains code for Bluetooth-Controller bot using Arduino
+
 #define m11 11    // rear motor
 #define m12 12
 #define m21 10    // front motor
